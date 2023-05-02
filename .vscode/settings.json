@@ -28,6 +28,7 @@
       "editor.defaultFormatter": "vscode.html-language-features"
    },
    "cSpell.words": [
-      "callout"
+      "callout",
+      "navalert"
    ]
 }
